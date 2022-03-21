@@ -1,0 +1,46 @@
+body{
+background-color: #1D233D;
+}
+
+img{
+	max-height: 100px;
+	max-height: 50,2512px;
+	padding-left: 20px;
+}
+
+p{
+	color: white;
+	font-family: Helvetica;
+	padding: 20px;
+}
+
+h2{
+	color: #FE303C;
+	padding: 20px;
+	font-family: Helvetica Neue;
+
+}
+
+ul{
+	padding-right: 30px;
+	color: white;
+	font-family: Helvetica;
+	margin-left: -60px;
+}
+
+a{
+	color: #FE303C ;
+}
+
+
+button{
+	border-style: solid;
+	border-color: #FE303C;
+	background-color: #1D233D;
+	color: white;
+	padding-right: 40px;
+	padding-left: 40px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin: 30px;
+}

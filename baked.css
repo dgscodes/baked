@@ -2,11 +2,21 @@ body{
 background-color: #1D233D;
 }
 
+button:hover{
+	color: lightblue;
+	border-color: white;
+	animation: ease-in;
+}
+
 img{
 	max-height: 100px;
-	max-height: 50,2512px;
-	padding-left: 20px;
+	max-width: 50px;
 }
+
+li{
+	color: red;
+}
+
 
 p{
 	color: white;
@@ -44,3 +54,5 @@ button{
 	padding-bottom: 15px;
 	margin: 30px;
 }
+
+
